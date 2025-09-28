@@ -2,7 +2,7 @@ name: Update WakaTime stats in README
 
 on:
   schedule:
-    - cron: "0 */12 * * *"   # 2× denně
+    - cron: "0 6 * * *"     # 1× denně v 06:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -10,16 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-
-      - name: WakaReadme
-        uses: athul/waka-readme@v0.3.0
+      - uses: athul/waka-readme@v0.3.0
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # SHOW_TITLE: "true"
-          # TIME_RANGE: "last_7_days"
-          # SHOW_TIME: "true"
-          # SHOW_MASKED_TIME: "false"
-          # SECTION_NAME: "waka"  # musí odpovídat tvé kotvě v README
+
       - name: Commit & push changes
         run: |
           git config user.name "github-actions[bot]"
