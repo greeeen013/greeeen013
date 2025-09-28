@@ -1,32 +1,98 @@
 <h1 align="center">Hi 👋, I'm Jan</h1>
-<h3 align="center">I’m a software developer passionate about automation, bot development, and web applications. With few public repositories showcasing my skills across Python, C#, Java, and HTML, I build versatile tools that streamline workflows and enhance user experiences.</h3>
+<h3 align="center">A software developer passionate about automation, bot development, and web applications 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=greeeen013&label=Profile%20views&color=0e75b6&style=flat" alt="greeeen013" /> </p>
-
-- 🔭 I’m currently working on [Name Day Instagram Bot](https://github.com/greeeen013/NameDayInstagramBot)
-
-- 🌱 I’m currently learning **Kotlin, Microcontroller development, Backend development**
-
-- 📫 How to reach me **green013@post.cz**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/green013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="green013" height="30" width="40" /></a>
-<a href="https://instagram.com/greeeen013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="greeeen013" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/greeen013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="greeen013" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/greeeen013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="greeeen013" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@greeen013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@greeen013" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=greeeen013&label=Profile%20views&color=0e75b6&style=flat" alt="greeeen013" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+---
 
+- 🔭 I’m currently working on [Name Day Instagram Bot](https://github.com/greeeen013/NameDayInstagramBot)  
+- 🌱 I’m currently learning **Kotlin, Microcontroller development, Backend development**  
+- 📫 How to reach me: **green013@post.cz**
 
-<h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greeeen013&show_icons=true&locale=en&layout=compact" alt="greeeen013" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greeeen013&show_icons=true&locale=en" alt="greeeen013" /></p>
+<h3 align="left">🌐 Connect with me:</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/green013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="green013" height="30" width="40" /></a>
+  <a href="https://instagram.com/greeeen013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="greeeen013" height="30" width="40" /></a>
+  <a href="https://www.hackerrank.com/greeen013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="greeen013" height="30" width="40" /></a>
+  <a href="https://www.leetcode.com/greeeen013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="greeeen013" height="30" width="40" /></a>
+  <a href="https://www.hackerearth.com/@greeen013" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@greeen013" height="30" width="40" /></a>
+</p>
 
-<h3 align="left">Leetcode Stats:</h3>
+---
 
+## 🛠 Languages & Tools
+
+### Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) 
+![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white)
+
+### Web Development  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+
+### Databases  
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![Baserow](https://img.shields.io/badge/-Baserow-FF6B6B?logo=airtable&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+### Hardware & IoT  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white) 
+![ESP](https://img.shields.io/badge/-ESP8266/32-000000?logo=espressif&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+
+### Automations  
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white) 
+![n8n](https://img.shields.io/badge/-n8n-EA4C89?logo=n8n&logoColor=white) 
+![Make.com](https://img.shields.io/badge/-Make.com-2D2E83?logo=make&logoColor=white)
+
+### CAD/CAM  
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FFB07C?logo=autodesk&logoColor=white) 
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-CA001B?logo=dassaultsystemes&logoColor=white)
+
+### 3D Print  
+![Creality](https://img.shields.io/badge/-Creality-FF6600?logo=3dprint&logoColor=white) 
+![Bambu Lab](https://img.shields.io/badge/-Bambu%20Lab-6AB547?logo=3dprint&logoColor=white)
+
+### Other Tools  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?logo=openvpn&logoColor=white)  
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [MacroRePlayer](https://github.com/greeeen013/MacroRePlayer)  
+A desktop tool for recording and replaying keyboard & mouse inputs using global hooks. Perfect for task automation, testing, and repetitive workflows.
+
+### 🔹 [NameDayInstagramBot](https://github.com/greeeen013/NameDayInstagramBot)  
+A smart Instagram bot that posts name day greetings automatically. Combines scheduling, automation, and creativity.
+
+---
+
+## 📊 GitHub Stats
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greeeen013&show_icons=true&locale=en&layout=compact" alt="greeeen013" />
+</p>
+<p>
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greeeen013&show_icons=true&locale=en" alt="greeeen013" />
+</p>
+
+---
+
+## 🧑‍💻 LeetCode Stats
 [![Leetcode Stats](https://leetcard.jacoblin.cool/greeeen013?ext=contest)](https://leetcode.com/greeeen013)
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
