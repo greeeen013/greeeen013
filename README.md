@@ -97,7 +97,8 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python      0 secs          ████████████████████████░   96.52 %
+.env file   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
