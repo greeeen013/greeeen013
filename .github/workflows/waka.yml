@@ -1,35 +1,61 @@
-name: Update WakaTime stats in README
+name: Update Waka section
 
 on:
   schedule:
-    - cron: "0 6 * * *"
+    - cron: "0 6 * * *"     # denně 06:00 UTC
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: write            # dovolí pushnout změny do README
 
 jobs:
-  update-waka:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          ref: ${{ github.ref }}
 
-      - name: Run WakaReadme
-        uses: athul/waka-readme@v0.3.0
+      - name: Generate Waka block
+        uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ### ——— konfigurace obsahu ———
+          SECTION_NAME: "waka"            # musí sedět s kotvami v README
+          LOCALE: "en"
+          TIME_RANGE: "last_7_days"       # pro týdenní sekci
 
-      - name: Commit & push changes
+          # GitHub Data (storage, contributions, hireable, repos)
+          SHOW_SHORT_INFO: "true"         # 📦, 🏆, 🚫/✅ hire, 📜, 🔑
+          SHOW_PROFILE_VIEWS: "false"
+          SHOW_LINES_OF_CODE: "false"     # nechceš LOC statistiky
+          SHOW_COMMIT: "false"            # nevypisovat denní/weekly commit grafy
+
+          # „I’m a Night 🦉“ + „Most Productive on …“
+          SHOW_DAYS_OF_WEEK: "true"       # produktivní den
+          SHOW_UPDATED_DATE: "false"      # bez „Last Updated on …“
+          # (část „Night 🦉“ generuje tahle akce automaticky, když má data)
+
+          # Týdenní WakaTime přehled:
+          SHOW_TIMEZONE: "true"
+          SHOW_LANGUAGE: "true"           # „Programming Languages“
+          SHOW_EDITORS: "true"            # „Editors“
+          SHOW_PROJECTS: "true"           # „Projects“
+          SHOW_OS: "true"                 # „Operating System“
+          SHOW_TOTAL_CODE_TIME: "false"   # bez celoživotního součtu
+          SHOW_LOC_CHART: "false"         # bez grafu LOC
+
+          # „I Mostly Code in …“
+          SHOW_LANGUAGE_PER_REPO: "true"  # přehled jazyků v repozitářích
+          # volitelné: COUNT_PRIVATE: "true" pro započítání privátních rep
+
+      - name: Commit & push
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name  "${{ github.actor }}"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
           git add README.md
-          git commit -m "chore: update WakaTime stats" || echo "No changes"
-          # stáhni, zrebasuj a pak pushni na stejnou větev
-          git fetch origin ${{ github.ref_name }}
+          git commit -m "chore: update Waka section" || exit 0
           git pull --rebase origin ${{ github.ref_name }} || true
           git push origin HEAD:${{ github.ref_name }}
