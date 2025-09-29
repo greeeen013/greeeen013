@@ -2,11 +2,11 @@ name: Update Waka section
 
 on:
   schedule:
-    - cron: "0 6 * * *"     # denně 06:00 UTC
+    - cron: "0 6 * * *"
   workflow_dispatch:
 
 permissions:
-  contents: write            # dovolí pushnout změny do README
+  contents: write
 
 jobs:
   build:
@@ -21,37 +21,32 @@ jobs:
         uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ### ——— konfigurace obsahu ———
-          SECTION_NAME: "waka"            # musí sedět s kotvami v README
+          SECTION_NAME: "waka"
           LOCALE: "en"
-          TIME_RANGE: "last_7_days"       # pro týdenní sekci
 
-          # GitHub Data (storage, contributions, hireable, repos)
-          SHOW_SHORT_INFO: "true"         # 📦, 🏆, 🚫/✅ hire, 📜, 🔑
+          # GitHub Data
+          SHOW_SHORT_INFO: "true"
           SHOW_PROFILE_VIEWS: "false"
-          SHOW_LINES_OF_CODE: "false"     # nechceš LOC statistiky
-          SHOW_COMMIT: "false"            # nevypisovat denní/weekly commit grafy
+          SHOW_LINES_OF_CODE: "false"
+          SHOW_COMMIT: "false"
 
-          # „I’m a Night 🦉“ + „Most Productive on …“
-          SHOW_DAYS_OF_WEEK: "true"       # produktivní den
-          SHOW_UPDATED_DATE: "false"      # bez „Last Updated on …“
-          # (část „Night 🦉“ generuje tahle akce automaticky, když má data)
+          # „Night 🦉“ + „Most Productive on …“
+          SHOW_DAYS_OF_WEEK: "true"
+          SHOW_UPDATED_DATE: "false"
 
-          # Týdenní WakaTime přehled:
+          # Týdenní přehledy
           SHOW_TIMEZONE: "true"
-          SHOW_LANGUAGE: "true"           # „Programming Languages“
-          SHOW_EDITORS: "true"            # „Editors“
-          SHOW_PROJECTS: "true"           # „Projects“
-          SHOW_OS: "true"                 # „Operating System“
-          SHOW_TOTAL_CODE_TIME: "false"   # bez celoživotního součtu
-          SHOW_LOC_CHART: "false"         # bez grafu LOC
+          SHOW_LANGUAGE: "true"
+          SHOW_EDITORS: "true"
+          SHOW_PROJECTS: "true"
+          SHOW_OS: "true"
+          SHOW_TOTAL_CODE_TIME: "false"
+          SHOW_LOC_CHART: "false"
 
           # „I Mostly Code in …“
-          SHOW_LANGUAGE_PER_REPO: "true"  # přehled jazyků v repozitářích
-          # volitelné: COUNT_PRIVATE: "true" pro započítání privátních rep
+          SHOW_LANGUAGE_PER_REPO: "true"
 
-      - name: Commit & push
+      - name: Commit & push changes
         run: |
           git config user.name  "${{ github.actor }}"
           git config user.email "${{ github.actor }}@users.noreply.github.com"
