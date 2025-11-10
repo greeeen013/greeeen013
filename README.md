@@ -99,7 +99,7 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 
 **🐱 My GitHub Data** 
 
-> 📦 7.1 kB Used in GitHub's Storage 
+> 📦 7.4 kB Used in GitHub's Storage 
  > 
 > 🏆 501 Contributions in the Year 2025
  > 
@@ -128,23 +128,16 @@ Sunday                   105 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-JSON                     13 mins             ████████████████░░░░░░░░░   62.54 % 
-Python                   8 mins              █████████░░░░░░░░░░░░░░░░   37.42 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-webShopImageScrape       15 mins             █████████████████░░░░░░░░   68.41 % 
-NameDayInstagramBot      5 mins              ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-ScrapeProductStats       1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-pretorian                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  21 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
