@@ -99,7 +99,7 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 
 **🐱 My GitHub Data** 
 
-> 📦 8.4 kB Used in GitHub's Storage 
+> 📦 8.3 kB Used in GitHub's Storage 
  > 
 > 🏆 501 Contributions in the Year 2025
  > 
