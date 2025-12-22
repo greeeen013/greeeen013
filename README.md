@@ -95,7 +95,7 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-22%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-23%20hrs%2037%20mins-blue)
 
 **🐱 My GitHub Data** 
 
