@@ -101,7 +101,7 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 
 > 📦 17.4 kB Used in GitHub's Storage 
  > 
-> 🏆 551 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
