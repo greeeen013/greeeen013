@@ -97,9 +97,9 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 17.4 kB Used in GitHub's Storage 
+> 📦 17.5 kB Used in GitHub's Storage 
  > 
-> 🏆 5 Contributions in the Year 2026
+> 🏆 20 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -107,38 +107,6 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
  > 
 > 🔑 5 Private Repositories 
  > 
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   106 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Tuesday                  63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
-Wednesday                92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.61 % 
-Thursday                 107 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Friday                   90 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
-Saturday                 100 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
-Sunday                   118 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Prague
-
-💬 Programming Languages: 
-Python                   0 secs              ████████████████████████░   96.32 % 
-.env file                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
-
-🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-DnesMaSvatek             0 secs              █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
