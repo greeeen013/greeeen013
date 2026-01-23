@@ -128,17 +128,16 @@ Sunday                   126 commits         ████░░░░░░░�
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Markdown                 0 secs              ███████████████████████░░   91.06 % 
-GitIgnore file           0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-RobloxMilitaryTycoon     0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
