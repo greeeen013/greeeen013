@@ -2,22 +2,21 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: "30 18 * * *"   # 00:00 IST, klidně změň
+    - cron: "30 18 * * *"   # 00:00 IST (18:30)
   workflow_dispatch:
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     permissions:
-      contents: write       # pro jistotu (GITHUB_TOKEN), PAT se stejně použije
+      contents: write
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN:         ${{ secrets.GH_TOKEN }}  # PAT classic (repo + read:user)
 
-          # volitelné přepínače, aby ses dostal k přesně tomu výpisu:
-          SECTION_NAME: "waka"            # musíš mít v README:
+          SECTION_NAME: "waka"
                                           # <!--START_SECTION:waka--> ... <!--END_SECTION:waka-->
           LOCALE: "en"
           SHOW_TOTAL_CODE_TIME: "true"
@@ -27,7 +26,7 @@ jobs:
           SHOW_UPDATED_DATE: "false"
           SHOW_TIMEZONE: "true"
           SHOW_LANGUAGE: "true"
-          SHOW_EDITORS: "true"
+          SHOW_EDITORS: "false"
           SHOW_PROJECTS: "true"
           SHOW_OS: "true"
           SHOW_LOC_CHART: "false"
