@@ -33,40 +33,40 @@
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white)
 ![Prolog](https://img.shields.io/badge/-Prolog-742858?logo=prolog&logoColor=white)
 
-### Web Development  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
+### Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
-### Databases  
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white) 
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
-![Baserow](https://img.shields.io/badge/-Baserow-FF6B6B?logo=airtable&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Baserow](https://img.shields.io/badge/-Baserow-0B0B46?logo=baserow&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### Hardware & IoT  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white) 
-![ESP](https://img.shields.io/badge/-ESP8266/32-000000?logo=espressif&logoColor=white) 
+### Hardware & IoT
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white)
+![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
 
-### Automations  
-![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white) 
-![n8n](https://img.shields.io/badge/-n8n-EA4C89?logo=n8n&logoColor=white) 
+### Automations
+![Zapier](https://img.shields.io/badge/-Zapier-FF4A00?logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/-n8n-EA4C89?logo=n8n&logoColor=white)
 ![Make.com](https://img.shields.io/badge/-Make.com-2D2E83?logo=make&logoColor=white)
 
-### CAD/CAM  
-![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FFB07C?logo=autodesk&logoColor=white) 
-![SolidWorks](https://img.shields.io/badge/-SolidWorks-CA001B?logo=dassaultsystemes&logoColor=white)
+### CAD/CAM
+![Fusion 360](https://img.shields.io/badge/-Fusion%20360-FFB07C?logo=autodesk&logoColor=white)
+![SolidWorks](https://img.shields.io/badge/-SolidWorks-DA1F28?logo=dassaultsystemes&logoColor=white)
 
-### 3D Print  
-![Creality](https://img.shields.io/badge/-Creality-FF6600?logo=3dprint&logoColor=white) 
-![Bambu Lab](https://img.shields.io/badge/-Bambu%20Lab-6AB547?logo=3dprint&logoColor=white)
+### 3D Print
+![Creality](https://img.shields.io/badge/-Creality-FF6600?logo=creality&logoColor=white)
+![Bambu Lab](https://img.shields.io/badge/-Bambu%20Lab-00AEAD?logo=bambulab&logoColor=white)
 
-### Other Tools  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white) 
-![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?logo=openvpn&logoColor=white)  
-![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white) 
+### Other Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
+![OpenVPN](https://img.shields.io/badge/-OpenVPN-EA7E20?logo=openvpn&logoColor=white)
+![JetBrains](https://img.shields.io/badge/-JetBrains-000000?logo=jetbrains&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 
 ---
