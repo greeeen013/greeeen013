@@ -26,11 +26,12 @@
 
 ## 🛠 Languages & Tools
 
-### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) 
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 ![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?logo=haskell&logoColor=white)
+![Prolog](https://img.shields.io/badge/-Prolog-742858?logo=prolog&logoColor=white)
 
 ### Web Development  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
@@ -41,6 +42,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
 ![Baserow](https://img.shields.io/badge/-Baserow-FF6B6B?logo=airtable&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ### Hardware & IoT  
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?logo=raspberrypi&logoColor=white) 
