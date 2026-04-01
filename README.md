@@ -97,7 +97,7 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-54%20hrs%2032%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -114,13 +114,13 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
-Tuesday                  77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.40 % 
-Wednesday                114 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Thursday                 124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-Friday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Saturday                 135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
-Sunday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Monday                   132 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Tuesday                  77 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+Wednesday                117 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Thursday                 124 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Friday                   99 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
+Saturday                 135 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+Sunday                   138 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
 ```
 
 
