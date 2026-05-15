@@ -97,8 +97,6 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-105%20hrs%2048%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 163.2 kB Used in GitHub's Storage 
@@ -111,41 +109,6 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
  > 
 > 🔑 9 Private Repositories 
  > 
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Prague
-
-💬 Programming Languages: 
-Java                     1 hr 13 mins        ████████░░░░░░░░░░░░░░░░░   33.66 % 
-Other                    1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   28.06 % 
-Markdown                 31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.47 % 
-Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-JavaScript               17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-
-🐱‍💻 Projects: 
-bludiste                 2 hrs 51 mins       ████████████████████░░░░░   78.24 % 
-MMA-project              31 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-CoCGameManager           13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
-
-💻 Operating System: 
-Windows                  3 hrs 38 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
