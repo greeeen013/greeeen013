@@ -97,6 +97,8 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%208%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
 > 📦 163.2 kB Used in GitHub's Storage 
@@ -109,6 +111,42 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
  > 
 > 🔑 9 Private Repositories 
  > 
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
+Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
+Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
+Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Prague
+
+💬 Programming Languages: 
+Java                     1 hr 20 mins        █████████░░░░░░░░░░░░░░░░   35.63 % 
+Other                    1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+Markdown                 33 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Python                   22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Text                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+
+🐱‍💻 Projects: 
+bludiste                 2 hrs 57 mins       ████████████████████░░░░░   78.88 % 
+CoCGameManager           14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+UniDesk                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+MMA-project              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
+Unknown Project          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+
+💻 Operating System: 
+Windows                  3 hrs 45 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
