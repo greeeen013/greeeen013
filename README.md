@@ -111,40 +111,6 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
  > 
 > 🔑 9 Private Repositories 
  > 
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.99 % 
-Friday                   154 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
-Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Prague
-
-💬 Programming Languages: 
-Java                     59 mins             ██████████░░░░░░░░░░░░░░░   40.05 % 
-Markdown                 27 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-Other                    26 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.64 % 
-Text                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Python                   13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-
-🐱‍💻 Projects: 
-bludiste                 2 hrs 3 mins        █████████████████████░░░░   82.65 % 
-UniDesk                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-MMA-project              12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 % 
-
-💻 Operating System: 
-Windows                  2 hrs 29 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
