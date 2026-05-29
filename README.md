@@ -97,9 +97,11 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2021%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 163.2 kB Used in GitHub's Storage 
+> 📦 163.3 kB Used in GitHub's Storage 
  > 
 > 🏆 260 Contributions in the Year 2026
  > 
@@ -107,16 +109,44 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
  > 
 > 📜 28 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Prague
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ██████████████░░░░░░░░░░░   54.29 % 
-Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
-JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Python                   20 repos            ██████████████░░░░░░░░░░░   55.56 % 
+Java                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+JavaScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+Dart                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 ```
 
 
