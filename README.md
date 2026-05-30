@@ -114,13 +114,13 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
-Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.97 % 
-Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
-Saturday                 165 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Saturday                 167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
 ```
 
 
