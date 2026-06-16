@@ -97,7 +97,7 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-111%20hrs%2018%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -130,13 +130,20 @@ Sunday                   267 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Lua                      2 hrs 18 mins       ███████████████░░░░░░░░░░   61.48 % 
+Python                   44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.91 % 
+Markdown                 41 mins             █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Raid & RNG Tycoon        3 hrs               ████████████████████░░░░░   79.91 % 
+UniDesk                  44 mins             █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+RobloxMilitaryTycoon     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+KickBot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
