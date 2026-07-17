@@ -111,6 +111,41 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
  > 
 > 🔑 10 Private Repositories 
  > 
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Saturday                 167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
+Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Prague
+
+💬 Programming Languages: 
+Python                   3 hrs 10 mins       ██████████████████░░░░░░░   73.67 % 
+Bash                     38 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Text                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
+Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+
+🐱‍💻 Projects: 
+DiscordShredder          2 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.67 % 
+CoCGameManager           1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   30.73 % 
+UniDesk                  47 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+claude                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
+
+💻 Operating System: 
+Windows                  4 hrs 18 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
