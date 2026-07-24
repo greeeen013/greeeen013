@@ -97,7 +97,7 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-115%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2028%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -130,18 +130,17 @@ Sunday                   267 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Python                   19 mins             ██████████████████░░░░░░░   70.77 % 
-Markdown                 3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Other                    3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+Markdown                 6 mins              ███████████████████████░░   93.54 % 
+Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-CoCGameManager           24 mins             ██████████████████████░░░   88.78 % 
-claude                   3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+CoCGameManager           7 mins              █████████████████████████   99.88 % 
+MindForge                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  27 mins             █████████████████████████   100.00 % 
+Windows                  7 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
