@@ -97,7 +97,7 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2030%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -130,17 +130,21 @@ Sunday                   267 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Markdown                 6 mins              ███████████████████████░░   93.54 % 
-Bash                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+Python                   3 hrs 43 mins       ████████████████████░░░░░   80.31 % 
+Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-CoCGameManager           7 mins              █████████████████████████   99.88 % 
-MindForge                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+CoCGameManager           2 hrs 54 mins       ████████████████░░░░░░░░░   62.66 % 
+DiscordOrbs              1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+claude                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
+DiskCheck                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+MindForge                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
