@@ -97,7 +97,7 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2057%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -130,21 +130,21 @@ Sunday                   267 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Python                   3 hrs 43 mins       ████████████████████░░░░░   80.31 % 
-Markdown                 35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Python                   6 hrs 22 mins       ██████████████░░░░░░░░░░░   57.93 % 
+Markdown                 1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
+JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
 
 🐱‍💻 Projects: 
-CoCGameManager           2 hrs 54 mins       ████████████████░░░░░░░░░   62.66 % 
-DiscordOrbs              1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-claude                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.51 % 
-DiskCheck                5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-MindForge                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+CoCGameManager           5 hrs 41 mins       █████████████░░░░░░░░░░░░   51.65 % 
+claude                   1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
+DiscordOrbs              1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+synth-logic-space        59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+DiskCheck                45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 💻 Operating System: 
-Windows                  4 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
