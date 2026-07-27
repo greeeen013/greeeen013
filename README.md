@@ -97,7 +97,9 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2019%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2021%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -130,21 +132,45 @@ Sunday                   267 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Python                   6 hrs 22 mins       ██████████████░░░░░░░░░░░   57.93 % 
-Markdown                 1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+Python                   6 hrs 48 mins       ███████████████░░░░░░░░░░   59.72 % 
+Markdown                 1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
+JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
+Other                    39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
 
 🐱‍💻 Projects: 
-CoCGameManager           5 hrs 41 mins       █████████████░░░░░░░░░░░░   51.65 % 
-claude                   1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-DiscordOrbs              1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-synth-logic-space        59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-DiskCheck                45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+CoCGameManager           6 hrs 19 mins       ██████████████░░░░░░░░░░░   55.46 % 
+claude                   1 hr 40 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+DiscordOrbs              1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+synth-logic-space        59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+DiskCheck                45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 💻 Operating System: 
-Windows                  11 hrs              █████████████████████████   100.00 % 
+Windows                  11 hrs 23 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 11 hrs 16 mins (98.86%)
+
+✍️ 5,015 lines written by AI, 1 lines written by hand (99.98% AI-written)
+
+🔤 270,375,379 Input Tokens, 1,020,381 Output Tokens
+
+💵 $825.66 Estimated AI Cost This Week
+
+🧠 40 AI Sessions, 98 AI Prompts
+
+Sonnet                   5,337 lines         █████████████████████████   100.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 99.98% of written lines came from AI
+📄 Detailed Prompter — average 881 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.26% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
