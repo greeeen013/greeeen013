@@ -132,45 +132,44 @@ Sunday                   267 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Python                   6 hrs 41 mins       ███████████████████░░░░░░   75.94 % 
-Markdown                 1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-JSON                     28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-Diff                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   4 hrs 9 mins        ████████████████████░░░░░   80.55 % 
+Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+JSON                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Other                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
 
 🐱‍💻 Projects: 
-CoCGameManager           6 hrs 15 mins       ██████████████████░░░░░░░   71.03 % 
-DiscordOrbs              1 hr 11 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-claude                   1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
-DiskCheck                15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
-synth-logic-space        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
+CoCGameManager           3 hrs 25 mins       █████████████████░░░░░░░░   66.38 % 
+DiscordOrbs              1 hr 11 mins        ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
+claude                   26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+DiskCheck                5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
 
 💻 Operating System: 
-Windows                  8 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 41 mins (98.53%)
+⏱ AI Coding Time: 5 hrs 1 min (97.49%)
 
-✍️ 4,470 lines written by AI, 1 lines written by hand (99.98% AI-written)
+✍️ 2,874 lines written by AI, 1 lines written by hand (99.97% AI-written)
 
-🔤 171,170,185 Input Tokens, 857,108 Output Tokens
+🔤 99,108,589 Input Tokens, 481,160 Output Tokens
 
-💵 $545.43 Estimated AI Cost This Week
+💵 $339.94 Estimated AI Cost This Week
 
-🧠 29 AI Sessions, 81 AI Prompts
+🧠 17 AI Sessions, 35 AI Prompts
 
-Sonnet                   4,819 lines         █████████████████████████   100.00 % 
+Sonnet                   3,359 lines         █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.98% of written lines came from AI
-📝 Concise Prompter — average 343 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.29% of changed lines were hand-edited
+🤖 AI-Driven — 99.97% of written lines came from AI
+📝 Concise Prompter — average 460 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.45% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
