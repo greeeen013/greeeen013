@@ -132,39 +132,19 @@ Sunday                   267 commits         █████░░░░░░�
 🕑︎ Time Zone: Europe/Prague
 
 💬 Programming Languages: 
-Python                   25 mins             █████████████████░░░░░░░░   67.28 % 
-Other                    8 mins              █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-Markdown                 4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.85 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-CoCGameManager           37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 37 mins (100.0%)
-
-✍️ 133 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 4,681,642 Input Tokens, 33,455 Output Tokens
-
-💵 $95.15 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 10 AI Prompts
-
-Sonnet                   847 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 226 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
