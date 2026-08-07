@@ -97,10 +97,6 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2021%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2024%20mins-blue?style=flat)
-
 **🐱 My GitHub Data** 
 
 > 📦 163.4 kB Used in GitHub's Storage 
@@ -113,40 +109,6 @@ A smart Instagram bot that posts name day greetings automatically. Combines sche
  > 
 > 🔑 10 Private Repositories 
  > 
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   227 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-Tuesday                  97 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Wednesday                225 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Thursday                 266 commits         █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-Friday                   155 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Saturday                 167 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-Sunday                   267 commits         █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Prague
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
